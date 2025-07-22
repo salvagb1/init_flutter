@@ -10,12 +10,12 @@ Este proyecto cumple con todos los requerimientos de la prueba técnica:
 
 ### Funcionalidades implementadas
 
-- [x] **Clean Architecture** con separación de capas (`domain`, `infrastructure`, `ui`)
-- [x] **Gestión de estado** con Riverpod
-- [x] **Consumo de API externa** (`https://dummyjson.com`) usando Dio
-- [x] **Navegación protegida y pública** con GoRouter
-- [x] **Login funcional** con username y password reales
-- [x] **Pruebas unitarias** (mínimo 2) sobre lógica de negocio y repositorios
+- **Clean Architecture** con separación de capas.
+- **Gestión de estado** con Riverpod
+- **Consumo de API externa** (`https://dummyjson.com`) usando Dio
+- **Navegación protegida y pública** con GoRouter
+- **Login funcional** con username y password reales
+- **Pruebas unitarias** (mínimo 2) sobre lógica de negocio y repositorios
 
 ---
 
@@ -42,3 +42,6 @@ flutter pub get
 user: emilys password: emilyspass
 user: jamesd	password: jamesdpass
 
+## Desarrollado por
+Salvador Gonzales Barrantes  
+LinkedIn: https://www.linkedin.com/in/salvadorgonzales/
